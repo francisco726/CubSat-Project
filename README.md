@@ -13,5 +13,4 @@ Future work will include:
 - PID/LQR attitude control
 - CAD-to-Python integration
 
-<img width="588" height="647" alt="Imagem 2" src="https://github.com/user-attachments/assets/325596e2-306a-4225-ad9e-66fa0802aa21" />
-<img width="940" height="607" alt="Imagem 1" src="https://github.com/user-attachments/assets/37ba5398-18d8-4d04-9570-11916b32dac6" />
+<img width="3122" height="1278" alt="Imagem_READ_ME" src="https://github.com/user-attachments/assets/2b02995d-64af-4584-b0d0-b4b271154f5e" />
